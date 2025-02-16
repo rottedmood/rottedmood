@@ -3,7 +3,7 @@
 
 ![my crappy stats](https://github-readme-stats.vercel.app/api?username=rottedmood&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&border_radius=7&rank_icon=github)
 
-
+<!--
 ### My Crummy Top Languages
 
 ![even more crappy stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rottedmood&show_icons=true&theme=tokyonight&border_radius=7)
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->

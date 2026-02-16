@@ -1,6 +1,8 @@
 ## 👋
 ### Rotted Stats
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--
 ![my crappy stats](https://github-readme-stats.vercel.app/api?username=rottedmood&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&border_radius=7&rank_icon=github)
